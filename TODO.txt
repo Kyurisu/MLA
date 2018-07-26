@@ -1,0 +1,23 @@
+High Priority
+BETA Country, units, basic mechanics
+TSF Units
+Research overhaul
+Country Ideas
+Japan overhaul
+Japan, US events
+Japan, US, EU, USSR, China focus trees
+
+Medium Priority
+BETA hive mechanics
+Units overhaul
+Add straits
+Fix non-african empty states
+Other major focus trees
+Population/Industry relocation decisions
+Other units (tanks, planes, boats, guns, etc)
+
+
+Low Priority
+Remove "dead" tags, cores
+Fix Africa
+Portraits/leaders for countries
